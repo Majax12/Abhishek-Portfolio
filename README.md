@@ -12,7 +12,7 @@ All data used can be found publically
 ### Word Cloud Generator 
 
 * Created a simple script where you submit a csv and it generates a wordcloud
-* You can also set the minimum word frequency to modify the wordcloud
+* You can also set the minimum word frequency to limit number of words
 
 ### Submissions Per hour for top 5 Subreddits - Reddit API 
 
