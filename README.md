@@ -23,5 +23,5 @@ All data used can be found publically
 
 ### Web Scraping
 
-* Used beautiful soup to scrape medical data from this url
+* Used beautiful soup to scrape patient history data for ~500 patients from a website
 * Extracted 'Allergies' and 'Description' from unstructured text dump and put it into a dataframe 
