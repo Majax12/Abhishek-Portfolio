@@ -1,6 +1,6 @@
 # Data Science Portfolio by Abhishek Thyagarajan
 
-This is a repository for projects realted to data science / data analysis
+This is a repository for projects realted to data science / data analysis.
 All data used can be found publically
 
 ### Time series Prediction - USD to AUD Conversion Rate 
